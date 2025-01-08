@@ -19,5 +19,6 @@ Why:
 
 This project is practical and engaging, allowing you to practice full-stack development while delivering value to users. It involves core skills such as CRUD operations, API integration, responsive design, and data management. Additionally, it’s easy to expand with features like meal planning and grocery list generation.
 
+done 
 
 
